@@ -86,7 +86,7 @@ global.policyGB = 'github.com/GataNina-Li/GataBot-MD/blob/master/terms.md'
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['593968263524', 'Gata Dios 💻', 1], 
+['593968263524', 'infinite 💻', 1], 
 ['573147616444', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['5214434703586', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
@@ -100,8 +100,8 @@ global.vs = '1.4.0'
 global.vsJB = '5.0 (beta)'
 global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'Infinite : infinite Dios'
+global.igfg = 'infinite'
 global.nomorown = owner[0][0]
 
 global.htki = '*⭑•̩̩͙⊱•••• ☪*'
