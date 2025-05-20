@@ -13,8 +13,8 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['5214774444444', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 🌻🐈', true],
+['5214774444444', 'INFINITE', true], 
+['593968263524', 'INFINITE 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖', true],
 ['573012482597'],
 ['5218715746374'],
 ['5492266613038'], 
@@ -79,8 +79,8 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'Infinite'
+global.author = 'Infinite 𝘿𝙞𝙤𝙨'
 global.policyGB = 'github.com/GataNina-Li/GataBot-MD/blob/master/terms.md'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
